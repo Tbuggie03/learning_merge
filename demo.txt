@@ -1,3 +1,7 @@
 My name is Tommy.
 
 My favorite color is blue.
+
+My name is Jacob.
+
+My favorite color is pink.
